@@ -14,3 +14,9 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+## Instalation
+To run the project, follow these step.
+
+## Installation
+To run the project, follow these steps.
